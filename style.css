@@ -1,0 +1,96 @@
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 12%, 56%); }
+
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color:  hsl(228, 45%, 44%); 
+    max-width: 90%;
+    min-width: 300px; 
+    
+}
+
+.quadro {
+    width: 601px;
+    height: 1000px;
+    border-radius: 25px;
+    border-style: solid;
+    box-shadow: 8px 5px 5px black;
+    background-color: rgba(38, 79, 119, 0.733);  
+   
+    max-width: 90%;
+    min-width: 300px; 
+}
+
+#box {  
+ margin-top: 200px;
+ text-align: center;  
+}
+
+.img1 {
+    margin-top: -115px;
+    min-width: 300px;
+    max-width: 90%;
+    min-width: 300px; 
+}
+
+img {
+    border-radius: 10px;
+    width: 500px;
+    margin-top: 35px;
+  
+      
+}
+
+h1 {
+    color: white;
+    margin-right: 240px;
+    font-size: xx-large;
+    
+}
+
+h3 {
+    color: rgba(113, 139, 160, 0.89);
+}
+
+p {
+    align-items: center;
+}
+
+.avatar {
+    width: 50px;
+}
+.eth1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 1px 40px 1px 40px;
+}
+.eth {
+    color: aqua;
+    font-size: large;
+    flex-direction: column;
+}
+
+.days {
+    color: rgba(113, 139, 160, 0.89);
+}
+
+.icon {
+    width: 15px;
+    margin-top: -3px;
+    margin-right: 5px
+
+}
+.clock {
+    width: 20px;
+    margin-block: auto;
+    margin-inline-start: auto;
+
+}
+
+a {
+    color: white;
+}
